@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/TransitionManager.cs">
+    <Files>
+      <File FileName="Assets/accelerometerscript.cs" Line="23" Column="2" />
+      <File FileName="Assets/scripts/ViewTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/TransitionManager.cs" Line="158" Column="1" />
+      <File FileName="Assets/scripts/GazeRay.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/ViewModeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/BackToAbout.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Autofocus.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/LiveTrackablesScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/shipController.cs" Line="5" Column="1" />
+      <File FileName="Assets/lightRaycast.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/maprotator.cs" Line="15" Column="2" />
+      <File FileName="Assets/scripts/confirm.cs" Line="1" Column="1" />
+      <File FileName="Assets/networkscript.cs" Line="11" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
